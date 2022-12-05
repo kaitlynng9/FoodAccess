@@ -1,4 +1,4 @@
-,Unnamed: 0,Record ID,Store Name,Store Type,Street Number,Street Name,Additional Address,City,State,Zip Code,Zip4,County,Latitude,Longitude,Authorization Date,End Date
+,Unnamed: 0,Record ID,Store Name,Store Type,Street Number,Street Name,Additional Address,City,State,Zip Code,Zip4,County,Latitude,Longitude,Authorization Date,IntersectionID
 104,912486,1270995,7-eleven 37755A,Convenience Store,1105,NE 47th St, ,Seattle,WA,98105,4616,KING,47.66308,-122.3162,1/31/17,7523
 106,912492,1347496,7-eleven 38365A,Convenience Store,4710,University Way NE, ,Seattle,WA,98105,4427,KING,47.66351,-122.313,1/28/19,7535
 186,912683,954259,7-Eleven 2360-29078B  ,Convenience Store,101,NE 50th St, ,Seattle,WA,98105,4823,KING,47.66499,-122.328,6/18/10,7304
